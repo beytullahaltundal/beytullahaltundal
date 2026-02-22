@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**beytullahaltundal/beytullahaltundal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 Computer Programming student.  <br>Focused on Python, Web Development and SQL.  <br>Building software projects with an interest in AI and Computer Vision.
 
